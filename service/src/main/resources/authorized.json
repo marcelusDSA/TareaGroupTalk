@@ -1,0 +1,27 @@
+[
+  {
+    "path": "myresource",
+    "methods": ["GET"]
+  },
+  {
+    "path": "users",
+    "methods": ["POST"]
+  },
+  {
+    "path": "grupos",
+    "methods": ["GET"]
+  },
+  {
+    "path": "tema",
+    "methods": ["POST"]
+  },
+  {
+    "path": "tema",
+    "methods": ["GET"]
+  },
+  {
+    "path":"respuesta",
+    "methods":["POST"]
+  }
+
+]
